@@ -1230,7 +1230,7 @@ input::-moz-focus-inner {
   padding: 0;
   position: absolute;
   right: 60px;
-  top: -31px;
+  top: 31px;
 }
 
 .home-logo a {
@@ -1671,10 +1671,10 @@ html.no-csstransitions .home-content__main {
 
 }
 
-@media only screen and (max-width:1400px) {
+/* @media only screen and (max-width:1400px) {
   .home-logo {
     right: 35px;
-  }
+  } */
 
   .home-content h1 {
     font-size: 5rem;
